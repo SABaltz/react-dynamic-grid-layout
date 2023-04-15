@@ -30,6 +30,9 @@
   },
   "dependencies": {
     "@rollup/plugin-terser": "^0.4.1",
+    "rollup-plugin-peer-deps-external": "^2.2.4"
+  },
+  "peerDependencies": {
     "react": "^18.2.0"
   },
   "files": [
